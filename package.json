@@ -1,0 +1,23 @@
+{
+  "name": "clase01",
+  "version": "1.0.0",
+  "description": "primeros pasos con Node y NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcelobettini/emit-juarez.git"
+  },
+  "author": "Profe Marce",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcelobettini/emit-juarez/issues"
+  },
+  "homepage": "https://github.com/marcelobettini/emit-juarez#readme",
+  "dependencies": {
+    "@types/node": "^18.13.0",
+    "array-sum": "^1.0.0"
+  }
+}
