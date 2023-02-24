@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/marcelobettini/emit-juarez#readme",
   "dependencies": {
-    "@types/node": "^18.13.0",
+    "@types/node": "^18.14.1",
     "array-sum": "^1.0.0"
   }
 }
