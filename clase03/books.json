@@ -1,0 +1,14 @@
+[
+  {
+    "nombre": "A sangre fría",
+    "genero": "no ficción",
+    "cantPaginas": 420,
+    "autor": "Truman Capote"
+  },
+  {
+    "nombre": "Miles de Millones",
+    "genero": "Divulgación",
+    "cantPaginas": 590,
+    "autor": "Carl Sagan"
+  }
+]
