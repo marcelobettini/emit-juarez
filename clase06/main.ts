@@ -1,0 +1,11 @@
+import { SimCard } from "./simcard";
+import { CellPhone } from "./cellphone";
+import { Battery } from "./battery";
+const bat01: Battery = new Battery(3000, "ChinoLoco", "Generic-detona c3po");
+console.log(bat01.getInfo());
+const cell01: CellPhone = new CellPhone("Motorola", "Razr v3", bat01);
+console.log(cell01.getInfo());
+const sim01: SimCard = new SimCard("Movistar", 5492494609742);
+console.log(sim01.getInfo());
+cell01.setSimCard(sim01);
+console.log(cell01.getInfo());
