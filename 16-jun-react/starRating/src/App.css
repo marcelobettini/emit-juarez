@@ -1,0 +1,15 @@
+.app-container {
+  background-color: #424244;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.rating-container {
+  padding: 1em;
+  text-align: center;
+  background-color: rgb(52, 60, 98);
+}
